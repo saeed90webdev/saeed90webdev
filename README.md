@@ -38,7 +38,7 @@
 
 ### 📫 Get in touch with me :
 <div id="contact_me" align="center">
-        &nbsp;&nbsp;<a href="saeed90.webdeveloper@gmail.com" target="blank"><img align="center" src="https://github.com/saeed90webdev/saeed90webdev/blob/main/communication_letter_email_message_mail_google_icon_228423.png?raw=true" title="Email" alt="Email" width="50" height="50"/></a>&nbsp;&nbsp;
+        &nbsp;&nbsp;<a href="mailto:saeed90.webdeveloper@gmail.com" target="blank"><img align="center" src="https://github.com/saeed90webdev/saeed90webdev/blob/main/communication_letter_email_message_mail_google_icon_228423.png?raw=true" title="Email" alt="Email" width="50" height="50"/></a>&nbsp;&nbsp;
         &nbsp;&nbsp;<a href="https://www.linkedin.com/in/saeed-salehabadi" target="blank"><img align="center" src="https://github.com/saeed90webdev/saeed90webdev/blob/main/communication_social_media_linkedin_icon_228412.png?raw=true" title="Linkedin" alt="Linkedin" width="50" height="50" /></a>&nbsp;&nbsp;
         &nbsp;&nbsp;<a href="https://instagram.com/saeed90webdev/" target="blank"><img align="center" src="https://github.com/saeed90webdev/saeed90webdev/blob/main/media_social_instagram_icon_228428.png?raw=true" title="Instagram" alt="Instagram" width="50" height="50"/></a>&nbsp;&nbsp;
         &nbsp;&nbsp;<a href="https://wa.me/qr/LR4ZRBPJOJVOD1/" target="blank"><img align="center" src="https://github.com/saeed90webdev/saeed90webdev/blob/main/communication_media_social_whatups_icon_228382.png?raw=true" title="Whatsapp" alt="Whatsapp" width="50" height="50"/></a>&nbsp;&nbsp;
