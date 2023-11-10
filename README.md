@@ -29,7 +29,6 @@
     &nbsp;<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />&nbsp;
     &nbsp;<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
     &nbsp;<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />&nbsp;
-    &nbsp;<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />&nbsp;
     &nbsp;<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />&nbsp;
     &nbsp;<img src="https://skillicons.dev/icons?i=github" title="Github" alt="Github" />&nbsp;
 </p>
