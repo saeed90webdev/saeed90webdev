@@ -9,7 +9,7 @@
 
 - 👨‍💻 I am a junior Web Developer &nbsp; ==> &nbsp; django & react
   
-- 🏠 based in Mashhad, Iran
+- 🏠 Based in Mashhad, Razavi Khorasan, Iran
   
 - 🌱 I'm currently learning ReactJS.
 
